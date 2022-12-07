@@ -1,5 +1,7 @@
 package com.khanglaptrinh.dao.impl;
 
-public class NewDAO {
+import com.khanglaptring.dao.INewDAO;
+
+public class NewDAO implements INewDAO {
 
 }

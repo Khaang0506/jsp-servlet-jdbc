@@ -57,6 +57,13 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
 			<version>2.4.2</version>
 		</dependency>
 
+		<!-- mysql-connector-java -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.16</version>
+		</dependency>
+
 
 	</dependencies>
 
