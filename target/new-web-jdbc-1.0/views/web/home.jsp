@@ -29,7 +29,7 @@
                                     </div>
                                 </div>
                                 <div class="banner_img d-none d-lg-block">
-                                    <img src="<c:url value="img/banner_img.png"/>" alt="">
+                                    <img src="<%= request.getContextPath() %>/templates/web/img/banner_img.png" alt="">
                                 </div>
                             </div>
                         </div><div class="single_banner_slider">
@@ -37,7 +37,7 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Cloth & Wood
+                                            <h1>Cloth &amp; Wood
                                                 Sofa</h1>
                                             <p>Incididunt ut labore et dolore magna aliqua quis ipsum
                                                 suspendisse ultrices gravida. Risus commodo viverra</p>
@@ -46,7 +46,7 @@
                                     </div>
                                 </div>
                                 <div class="banner_img d-none d-lg-block">
-                                    <img src="img/banner_img.png" alt="">
+                                    <img src="<%= request.getContextPath() %>/templates/web/img/banner_img.png" alt="">
                                 </div>
                             </div>
                         </div><div class="single_banner_slider">
@@ -54,7 +54,7 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Wood & Cloth
+                                            <h1>Wood &amp; Cloth
                                                 Sofa</h1>
                                             <p>Incididunt ut labore et dolore magna aliqua quis ipsum
                                                 suspendisse ultrices gravida. Risus commodo viverra</p>
@@ -63,7 +63,7 @@
                                     </div>
                                 </div>
                                 <div class="banner_img d-none d-lg-block">
-                                    <img src="img/banner_img.png" alt="">
+                                    <img src="<%= request.getContextPath() %>/templates/web/img/banner_img.png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -108,7 +108,7 @@
                         <p>Premium Quality</p>
                         <h3>Latest foam Sofa</h3>
                         <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
-                        <img src="img/feature/feature_1.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/feature/feature_1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-5 col-sm-6">
@@ -116,7 +116,7 @@
                         <p>Premium Quality</p>
                         <h3>Latest foam Sofa</h3>
                         <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
-                        <img src="img/feature/feature_2.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/feature/feature_2.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-5 col-sm-6">
@@ -124,7 +124,7 @@
                         <p>Premium Quality</p>
                         <h3>Latest foam Sofa</h3>
                         <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
-                        <img src="img/feature/feature_3.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/feature/feature_3.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7 col-sm-6">
@@ -132,7 +132,7 @@
                         <p>Premium Quality</p>
                         <h3>Latest foam Sofa</h3>
                         <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
-                        <img src="img/feature/feature_4.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/feature/feature_4.png" alt="">
                     </div>
                 </div>
             </div>
@@ -157,7 +157,7 @@
                             <div class="row align-items-center justify-content-between">
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_1.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_1.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -167,7 +167,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_2.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_2.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -177,7 +177,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_3.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_3.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -187,7 +187,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_4.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_4.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -197,7 +197,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_5.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_5.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -207,7 +207,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_6.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_6.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -217,7 +217,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_7.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_7.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -227,7 +227,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_8.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_8.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -241,7 +241,7 @@
                             <div class="row align-items-center justify-content-between">
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_1.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_1.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -251,7 +251,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_2.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_2.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -261,7 +261,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_3.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_3.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -271,7 +271,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_4.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_4.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -281,7 +281,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_5.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_5.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -291,7 +291,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_6.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_6.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -301,7 +301,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_7.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_7.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -311,7 +311,7 @@
                                 </div>
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="single_product_item">
-                                        <img src="img/product/product_8.png" alt="">
+                                        <img src="<%= request.getContextPath() %>/templates/web/img/product/product_8.png" alt="">
                                         <div class="single_product_text">
                                             <h4>Quartz Belt Watch</h4>
                                             <h3>$150.00</h3>
@@ -334,7 +334,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-6 col-md-6">
                     <div class="offer_img">
-                        <img src="img/offer_img.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/offer_img.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
@@ -377,35 +377,35 @@
                 <div class="col-lg-12">
                     <div class="best_product_slider owl-carousel">
                         <div class="single_product_item">
-                            <img src="img/product/product_1.png" alt="">
+                            <img src="<%= request.getContextPath() %>/templates/web/img/product/product_1.png" alt="">
                             <div class="single_product_text">
                                 <h4>Quartz Belt Watch</h4>
                                 <h3>$150.00</h3>
                             </div>
                         </div>
                         <div class="single_product_item">
-                            <img src="img/product/product_2.png" alt="">
+                            <img src="<%= request.getContextPath() %>/templates/web/img/product/product_2.png" alt="">
                             <div class="single_product_text">
                                 <h4>Quartz Belt Watch</h4>
                                 <h3>$150.00</h3>
                             </div>
                         </div>
                         <div class="single_product_item">
-                            <img src="img/product/product_3.png" alt="">
+                            <img src="<%= request.getContextPath() %>/templates/web/img/product/product_3.png" alt="">
                             <div class="single_product_text">
                                 <h4>Quartz Belt Watch</h4>
                                 <h3>$150.00</h3>
                             </div>
                         </div>
                         <div class="single_product_item">
-                            <img src="img/product/product_4.png" alt="">
+                            <img src="<%= request.getContextPath() %>/templates/web/img/product/product_4.png" alt="">
                             <div class="single_product_text">
                                 <h4>Quartz Belt Watch</h4>
                                 <h3>$150.00</h3>
                             </div>
                         </div>
                         <div class="single_product_item">
-                            <img src="img/product/product_5.png" alt="">
+                            <img src="<%= request.getContextPath() %>/templates/web/img/product/product_5.png" alt="">
                             <div class="single_product_text">
                                 <h4>Quartz Belt Watch</h4>
                                 <h3>$150.00</h3>
@@ -447,34 +447,34 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_1.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_1.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_2.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_2.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_3.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_3.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_4.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_4.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_5.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_5.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_3.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_3.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_1.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_1.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_2.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_2.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_3.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_3.png" alt="">
                     </div>
                     <div class="single_client_logo">
-                        <img src="img/client_logo/client_logo_4.png" alt="">
+                        <img src="<%= request.getContextPath() %>/templates/web/img/client_logo/client_logo_4.png" alt="">
                     </div>
                 </div>
             </div>

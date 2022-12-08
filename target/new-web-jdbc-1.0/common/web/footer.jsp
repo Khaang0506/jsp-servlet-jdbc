@@ -1,3 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ include file="/common/taglib.jsp"%>
+<!DOCTYPE html >
 <!--::footer_part start::-->
 <footer class="footer_part">
 	<div class="container">

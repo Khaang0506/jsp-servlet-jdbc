@@ -1,3 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ include file="/common/taglib.jsp"%>
+<!DOCTYPE html >
 <!--::header part start::-->
 <header class="main_menu home_menu">
 	<div class="container">
@@ -5,7 +9,7 @@
 			<div class="col-lg-12">
 				<nav class="navbar navbar-expand-lg navbar-light">
 					<a class="navbar-brand" href="index.html"> <img
-						src="img/logo.png" alt="logo">
+						src="${pageContext.request.contextPath}/templates/web/img/logo.png" alt="logo">
 					</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse"
 						data-target="#navbarSupportedContent"

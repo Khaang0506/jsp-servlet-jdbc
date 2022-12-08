@@ -1,3 +1,14 @@
 D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\controller\web\HomeController.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\model\NewsModel.java
 D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\model\UserModel.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\dao\impl\NewDAO.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\model\CommentModel.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\service\impl\NewService.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\service\INewService.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\model\AbstractModel.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\model\CategoryModel.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\dao\impl\CategoryDAO.java
 D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\controller\admin\HomeController.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\dao\INewDAO.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\model\RoleModel.java
+D:\spring-mvc\new-web-jdbc\src\main\java\com\khanglaptrinh\dao\ICategoryDAO.java
